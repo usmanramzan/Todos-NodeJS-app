@@ -1,0 +1,5 @@
+DB_HOST=localhost
+DB_NAME=todos
+DB_USERNAME=postgres 
+DB_PASSWORD=a10
+PORT=3012

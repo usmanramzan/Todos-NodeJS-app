@@ -1,0 +1,13 @@
+0. Install Node Js.
+1. Install postgres in your machine.
+2. Create a postgres database named 'todos' with username and passsword.
+3. Go to migration app and run command 'npm i' to install required packages. 
+4. Open 'migrate.js' file and provide database name, username, password, ip address and port and save it. 
+5. run command 'node migrate.js up' in the shell in the directory where migrate.js file is located.
+6. Verify if the table name 'todos' has been created in the todos database.
+7. Go to backend app and run command 'npm i' to install required packages.
+8. Open .env file and provide server port, server host ip address, postgres db name, postgres username, postgres password, postgres port and postgres host ip address.
+9. run 'npm start' command and server will be running on provided host and port.
+10. Go to browser and run 'http://<provided host>:<provided port>/'
+11. If some list of todos appears then you have successfully able to run all the apps.
+

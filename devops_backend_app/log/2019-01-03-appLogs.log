@@ -1,0 +1,83 @@
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"6:54:59 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m11.560 ms - 26\u001b[0m\n","timestamp":"6:54:59 PM"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404 \u001b[0m1.756 ms - 33\u001b[0m\n","timestamp":"6:54:59 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:41:10 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m13.319 ms - 26\u001b[0m\n","timestamp":"7:41:10 PM"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404 \u001b[0m1.599 ms - 33\u001b[0m\n","timestamp":"7:41:11 PM"}
+{"level":"info","message":"\u001b[0mGET /todos \u001b[0m- \u001b[0m- ms - -\u001b[0m\n","timestamp":"7:43:03 PM"}
+{"level":"info","message":"\u001b[0mGET /todos \u001b[0m- \u001b[0m- ms - -\u001b[0m\n","timestamp":"7:43:19 PM"}
+{"level":"info","message":"\u001b[0mGET /todos \u001b[32m200 \u001b[0m41.257 ms - 254\u001b[0m\n","timestamp":"7:43:19 PM"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404 \u001b[0m1.294 ms - 33\u001b[0m\n","timestamp":"7:43:19 PM"}
+{"level":"info","message":"\u001b[0mGET /todos \u001b[32m200 \u001b[0m22.321 ms - 254\u001b[0m\n","timestamp":"7:43:33 PM"}
+{"level":"info","message":"\u001b[0mGET /todos \u001b[32m200 \u001b[0m3.293 ms - 254\u001b[0m\n","timestamp":"7:43:34 PM"}
+{"level":"info","message":"\u001b[0mGET /todos \u001b[32m200 \u001b[0m8.274 ms - 254\u001b[0m\n","timestamp":"7:43:34 PM"}
+{"level":"info","message":"\u001b[0mGET /todos \u001b[32m200 \u001b[0m7.104 ms - 254\u001b[0m\n","timestamp":"7:43:35 PM"}
+{"level":"info","message":"\u001b[0mGET /todos \u001b[32m200 \u001b[0m1.558 ms - 254\u001b[0m\n","timestamp":"7:43:35 PM"}
+{"level":"info","message":"\u001b[0mGET /todos \u001b[32m200 \u001b[0m1.574 ms - 254\u001b[0m\n","timestamp":"7:43:35 PM"}
+{"level":"info","message":"\u001b[0mGET /todos \u001b[32m200 \u001b[0m4.953 ms - 254\u001b[0m\n","timestamp":"7:43:35 PM"}
+{"level":"info","message":"\u001b[0mGET /todos \u001b[32m200 \u001b[0m2.006 ms - 254\u001b[0m\n","timestamp":"7:43:36 PM"}
+{"level":"info","message":"\u001b[0mGET /todos \u001b[32m200 \u001b[0m4.354 ms - 254\u001b[0m\n","timestamp":"7:43:43 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:50:50 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m14.207 ms - 45\u001b[0m\n","timestamp":"7:50:50 PM"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404 \u001b[0m0.910 ms - 33\u001b[0m\n","timestamp":"7:50:50 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:51:49 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m3.416 ms - 45\u001b[0m\n","timestamp":"7:51:49 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:51:58 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m4.291 ms - 45\u001b[0m\n","timestamp":"7:51:58 PM"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404 \u001b[0m0.454 ms - 33\u001b[0m\n","timestamp":"7:51:58 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:51:58 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m1.106 ms - 45\u001b[0m\n","timestamp":"7:51:58 PM"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404 \u001b[0m0.690 ms - 33\u001b[0m\n","timestamp":"7:51:59 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:51:59 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m0.881 ms - 45\u001b[0m\n","timestamp":"7:51:59 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:51:59 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m0.921 ms - 45\u001b[0m\n","timestamp":"7:51:59 PM"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404 \u001b[0m0.499 ms - 33\u001b[0m\n","timestamp":"7:51:59 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:52:30 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[31m500 \u001b[0m58.363 ms - -\u001b[0m\n","timestamp":"7:52:30 PM"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404 \u001b[0m1.534 ms - 33\u001b[0m\n","timestamp":"7:52:30 PM"}
+{"level":"info","message":"\u001b[0mGET /todos \u001b[32m200 \u001b[0m16.074 ms - 254\u001b[0m\n","timestamp":"7:52:43 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:54:14 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[31m500 \u001b[0m19.165 ms - -\u001b[0m\n","timestamp":"7:54:14 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:54:56 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m43.346 ms - 177\u001b[0m\n","timestamp":"7:54:56 PM"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404 \u001b[0m1.106 ms - 33\u001b[0m\n","timestamp":"7:54:56 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:56:45 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m29.153 ms - 546\u001b[0m\n","timestamp":"7:56:45 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:26 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m18.822 ms - 544\u001b[0m\n","timestamp":"7:57:26 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:27 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m7.369 ms - 544\u001b[0m\n","timestamp":"7:57:27 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:27 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m6.612 ms - 544\u001b[0m\n","timestamp":"7:57:27 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:28 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m9.200 ms - 544\u001b[0m\n","timestamp":"7:57:28 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:29 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m3.895 ms - 544\u001b[0m\n","timestamp":"7:57:29 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:29 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m1.840 ms - 544\u001b[0m\n","timestamp":"7:57:29 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:30 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m6.444 ms - 544\u001b[0m\n","timestamp":"7:57:30 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:30 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m1.852 ms - 544\u001b[0m\n","timestamp":"7:57:30 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:30 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m6.350 ms - 544\u001b[0m\n","timestamp":"7:57:30 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:30 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m6.275 ms - 544\u001b[0m\n","timestamp":"7:57:30 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:31 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m1.913 ms - 544\u001b[0m\n","timestamp":"7:57:31 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:48 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m8.944 ms - 544\u001b[0m\n","timestamp":"7:57:48 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:48 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m5.993 ms - 544\u001b[0m\n","timestamp":"7:57:48 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:49 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m7.130 ms - 544\u001b[0m\n","timestamp":"7:57:49 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:57:49 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m2.282 ms - 544\u001b[0m\n","timestamp":"7:57:49 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:58:18 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m9.351 ms - 544\u001b[0m\n","timestamp":"7:58:18 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:59:42 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m16.371 ms - 544\u001b[0m\n","timestamp":"7:59:42 PM"}
+{"level":"info","message":"app route  endpoint  called.....","timestamp":"7:59:49 PM"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m43.043 ms - 544\u001b[0m\n","timestamp":"7:59:49 PM"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404 \u001b[0m1.355 ms - 33\u001b[0m\n","timestamp":"7:59:50 PM"}

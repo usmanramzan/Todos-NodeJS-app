@@ -1,0 +1,46 @@
+version: '3'
+
+services:
+  migration_app:
+    build: ./devops_migration
+    environment:
+      - DB_NAME=todos
+      - DB_USER=usman
+      - DB_PASS=123456
+      - DB_PORT=5432
+      - DB_HOST=db
+    depends_on:
+      - db
+    restart: on-failure
+    networks:
+      - mynetwork
+
+  db:
+    image: postgres:11
+    environment:
+      - POSTGRES_PASSWORD=123456
+      - POSTGRES_USER=usman
+      - POSTGRES_DB=todos
+    restart: always
+    networks:
+      - mynetwork
+  
+  backend_app:
+    build: ./devops_backend_app
+    environment:
+      - DB_PORT=5432
+      - DB_HOST=db
+      - DB_PASSWORD=123456
+      - DB_USERNAME=usman
+      - DB_NAME=todos
+    depends_on:
+      - db
+    restart: always
+    ports:
+      - "3030:3003"
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
+    driver: bridge
