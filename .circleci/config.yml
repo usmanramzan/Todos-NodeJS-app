@@ -20,7 +20,6 @@ jobs:
               sleep 1
             done
             echo Failed waiting for Postgress && exit 1
-      - run: mkdir -p $TEST_RESULTS
 
       # This should go into custom primary image, here's only for the sake of explanation
       - run:
