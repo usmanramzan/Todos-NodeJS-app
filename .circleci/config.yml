@@ -5,13 +5,7 @@ jobs:
       # using custom image, see .circleci/images/primary/Dockerfile
       - image: circleci/cci-demo-docker-primary:0.0.2
       - image: postgres:9.4.1
-        environment:
-          POSTGRES_USER: ubuntu
-          POSTGRES_DB: contacts
-    working_directory: /go/src/github.com/circleci/cci-demo-docker
-
-    environment:
-      TEST_RESULTS: /tmp/test-results
+    
 
     steps:
       - checkout
@@ -54,6 +48,6 @@ jobs:
             # we start another container with curl in the same network as `contacts`, this way we have
             # all exposed ports from `contacts` available on `localhost` in this new container
             docker run --network container:contacts \
-              appropriate/curl --retry 10 --retry-delay 1 --retry-connrefused http://localhost:3030/contacts/test
+              appropriate/curl --retry 10 --retry-delay 1 --retry-connrefused http://localhost:3030
      
       
